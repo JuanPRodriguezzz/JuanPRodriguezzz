@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPRodriguezzz)
 
-Me gusta el desarrollo de software **Análisis de Datos & BI** (SQL, Power BI, Tableau, Python).  
-También me gusta el desarrollo de software.
+Me gusta el desarrollo de software y **Análisis de Datos & BI** (SQL, Power BI, Tableau, Python).  
 
 </div>
 
@@ -25,8 +24,8 @@ También me gusta el desarrollo de software.
 ## 🧩 Desarrollo de software
 
 **Lenguajes** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>
 
@@ -47,17 +46,3 @@ También me gusta el desarrollo de software.
   <img src="https://komarev.com/ghpvc/?username=JuanPRodriguezzz&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
-<!--
-**JuanPRodriguezzz/JuanPRodriguezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
