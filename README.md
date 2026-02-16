@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPRodriguezzz)
 
 Enfocado en **Desarrollo de Software & Analisis de datos**
+<br>
 También estoy explorando la Ciencia de Datos y Ciberseguridad.
 
 </div>
