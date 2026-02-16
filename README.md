@@ -7,13 +7,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPRodriguezzz)
 
-Me gusta el desarrollo de software y **Análisis de Datos & BI** (SQL, Power BI, Tableau, Python).  
+Enfocado en **Desarrollo de Software & Analisis de datos**
+También estoy explorando la Ciencia de Datos y Ciberseguridad.
 
 </div>
 
 ---
 
-## 📊 Data & BI
+## 📊 Data & SC
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
